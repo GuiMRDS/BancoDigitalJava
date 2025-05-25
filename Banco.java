@@ -15,6 +15,7 @@ public class Banco {
 
     public List<Conta> getContas() {
         return contas;
+        //Teste
     }
 
     public void setContas(List<Conta> contas) {
